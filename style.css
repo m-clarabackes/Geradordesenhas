@@ -1,9 +1,9 @@
 :root{
     --branco: white;
-    --corDeFundo:#00162E;
-    --fundoSenha: #00244D;
-    --fundoDeTexto: #001E40;
-    --borda: #0075ff;
+    --corDeFundo:#2e0023;
+    --fundoSenha: #4d0038;
+    --fundoDeTexto: #400035;
+    --borda: #ff00b3;
     --roboto: "Roboto", sans-serif;
     --robotoMono: "Roboto Mono", monospace;
 }
